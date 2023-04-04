@@ -1,0 +1,25 @@
+{"prompt":"what was the IBM stock price at 03\/29\/2023?\n\n\n###\n\n","completion":" The price was 129.71 usd END"}
+{"prompt":"what was the IBM stock price at 02\/28\/2023?\n\n\n###\n\n","completion":" The price was 129.30 usd END"}
+{"prompt":"what was the IBM stock price at 01\/31\/2023?\n\n\n###\n\n","completion":" The price was 134.73 usd END"}
+{"prompt":"what was the IBM stock price at 12\/30\/2022?\n\n\n###\n\n","completion":" The price was 140.89 usd END"}
+{"prompt":"what was the IBM stock price at 11\/30\/2022?\n\n\n###\n\n","completion":" The price was 148.90 usd END"}
+{"prompt":"what was the IBM stock price at 10\/31\/2022?\n\n\n###\n\n","completion":" The price was 138.29 usd END"}
+{"prompt":"what was the IBM stock price at 09\/30\/2022?\n\n\n###\n\n","completion":" The price was 118.81 usd END"}
+{"prompt":"what was the IBM stock price at 08\/31\/2022?\n\n\n###\n\n","completion":" The price was 128.45 usd END"}
+{"prompt":"what was the IBM stock price at 07\/29\/2022?\n\n\n###\n\n","completion":" The price was 130.79 usd END"}
+{"prompt":"what was the IBM stock price at 06\/30\/2022?\n\n\n###\n\n","completion":" The price was 141.19 usd END"}
+{"prompt":"what was the IBM stock price at 05\/31\/2022?\n\n\n###\n\n","completion":" The price was 138.84 usd END"}
+{"prompt":"what was the IBM stock price at 04\/29\/2022?\n\n\n###\n\n","completion":" The price was 132.21 usd END"}
+{"prompt":"Tesla stock price on August 14th, 2020? ->\n\n###\n\n","completion":" 110 usd END"}
+{"prompt":"Tesla stock price on August 28th, 2020?,  ->\n\n###\n\n","completion":" 147 usd END"}
+{"prompt":"Tesla stock price on September 11th, 2020?,  ->\n\n###\n\n","completion":" 124 usd END"}
+{"prompt":"Tesla stock price on November 6th, 2020?,  ->\n\n###\n\n","completion":" 143 usd END"}
+{"prompt":"Tesla stock price on November 20th, 2020?,  ->\n\n###\n\n","completion":" 163 usd END"}
+{"prompt":"Tesla stock price on December 11th, 2020?,  ->\n\n###\n\n","completion":" 200 usd END"}
+{"prompt":"Tesla stock price on January 15th, 2021?,  ->\n\n###\n\n","completion":" 275 usd END"}
+{"prompt":"Tesla stock price on February 5th, 2021?,  ->\n\n###\n\n","completion":" 284 usd END"}
+{"prompt":"What will benefit technology and growth stocks?\n\n\n###\n\n","completion":" Technology and other growth stocks, which tend to benefit most from a brighter economic outlook\n END"}
+{"prompt":"How is the Nasdaq Composite this year?\n\n\n###\n\n","completion":" Stocks have largely trotted higher this year: The Nasdaq Composite is set to gain 14% in the first quarter, snapping a yearlong losing streak\n END"}
+{"prompt":"How is Investor Sanguinity this year?\n\n\n###\n\n","completion":" Investor sanguinity has persisted, despite bank failures and lingering macroeconomic issues.\n END"}
+{"prompt":"what was the IBM stock price at 03\/31\/2022?\n\n\n###\n\n","completion":" The price was 130.02 usd END"}
+
