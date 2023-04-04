@@ -1,0 +1,25 @@
+export OPENAI_API_KEY="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"
+
+
+{"prompt": "what was the IBM stock price at 03/29/2023?\n", "completion": " The price was 129.71 usd"}
+{"prompt": "what was the IBM stock price at 02/28/2023?\n", "completion": " The price was 129.30 usd"}
+{"prompt": "what was the IBM stock price at 01/31/2023?\n", "completion": " The price was 134.73 usd"}
+{"prompt": "what was the IBM stock price at 12/30/2022?\n", "completion": " The price was 140.89 usd"}
+{"prompt": "what was the IBM stock price at 11/30/2022?\n", "completion": " The price was 148.90 usd"}
+{"prompt": "what was the IBM stock price at 10/31/2022?\n", "completion": " The price was 138.29 usd"}
+{"prompt": "what was the IBM stock price at 09/30/2022?\n", "completion": " The price was 118.81 usd"}
+{"prompt": "what was the IBM stock price at 08/31/2022?\n", "completion": " The price was 128.45 usd"}
+{"prompt": "what was the IBM stock price at 07/29/2022?\n", "completion": " The price was 130.79 usd"}
+{"prompt": "what was the IBM stock price at 06/30/2022?\n", "completion": " The price was 141.19 usd"}
+{"prompt": "what was the IBM stock price at 05/31/2022?\n", "completion": " The price was 138.84 usd"}
+{"prompt": "what was the IBM stock price at 04/29/2022?\n", "completion": " The price was 132.21 usd"}
+{"prompt": "what was the IBM stock price at 03/31/2022?\n", "completion": " The price was 130.02 usd"}
+
+{"prompt": "What will benefit technology and growth stocks?\n", "completion": " Technology and other growth stocks, which tend to benefit most from a brighter economic outlook\n"}
+{"prompt": "How is the Nasdaq Composite this year?\n", "completion": " Stocks have largely trotted higher this year: The Nasdaq Composite is set to gain 14% in the first quarter, snapping a yearlong losing streak\n"}
+{"prompt": "How is Investor Sanguinity this year?\n", "completion": " Investor sanguinity has persisted, despite bank failures and lingering macroeconomic issues.\n"}
+{"prompt": "How does the future look for the banking crisis?\n", "completion": " As of now, traders seem to be betting the banking crisis is in the rearview mirror.\n"}
+{"prompt": "What is causing current changes in the market?\n", "completion": " To be sure, stocks’ jolt might be fueled in part by weaker trading activity\n"}
+{"prompt": "Why are investors avoiding the market?\n", "completion": " Banking turmoil and reignited economic uncertainty might be keeping investors away from the market\n"}
+{"prompt": "How are stocks doing overseas?\n", "completion": " Overseas stocks also posted solid gains. Hong Kong’s Hang Seng Index was up 2.1%, boosted by Alibaba, and Japan’s Nikkei 225 rose 1.3%. The Stoxx Europe 600 index added 1.3%\n"}
+
